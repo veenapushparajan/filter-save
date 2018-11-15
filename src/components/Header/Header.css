@@ -1,0 +1,18 @@
+.siteHeader {
+    margin-left: 150px;
+}
+
+.sidebarHeader {
+ padding: 20px;
+ font-weight: bold;
+}
+
+.sidebarListHeader {
+  font-size: 14px;
+  font-weight: bold;
+  padding: 5px;
+}
+
+.sidebarList {
+  height: 30px;
+}
